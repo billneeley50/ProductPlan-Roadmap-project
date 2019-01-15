@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Droppable {
+    padding: 0px;
+    border: 0px solid blue;
+}
+
+.ProductRoadmap {
+    display: inline-block;
+}

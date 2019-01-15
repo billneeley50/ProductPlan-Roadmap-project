@@ -1,0 +1,21 @@
+.RoadmapHeaderButton {
+
+    float: right;
+    background: white;
+    font-size: 12px;
+    border: 0px;
+    vertical-align: bottom;
+}
+
+
+.RoadmapHeaderButton:link,
+.RoadmapHeaderButton:visited {
+
+    border-bottom: 0;
+}
+
+.RoadmapHeaderButton:hover,
+.RoadmapHeaderButton:active {
+
+    border-bottom: 2px solid grey;
+}

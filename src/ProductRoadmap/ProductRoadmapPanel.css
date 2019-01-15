@@ -1,0 +1,40 @@
+.ProductRoadmapPanel {
+
+
+    float: left;
+    width: 90%;
+    height: 450px;
+    left: 5px;
+    top: 50px;
+    background: #e8e8e8;
+    box-shadow:  0 2px 3px #ccc;
+    padding: 1px;
+
+
+}
+
+.ProductRoadmapPanel table {
+
+    table-layout: fixed;
+    width: 100%;
+    color: #3b82e6;
+    border-collapse: collapse;
+    border-spacing: 0 0;
+    cellpadding: 0px;
+
+}
+
+.ProductRoadmapPanel table th {
+
+    font-size: 10px;
+    color: #6694e6;
+    color: darkblue;
+    padding: 0px;
+
+}
+
+.ProductRoadmapPanel table td {
+
+    text-align: center;
+    vertical-align: top;
+}

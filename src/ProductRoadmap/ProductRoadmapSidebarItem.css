@@ -1,0 +1,14 @@
+.ProductRoadmapSidebarItem {
+
+    width: 100%;
+    border: 1px solid #eee;
+    padding: 5px;
+    background: #e8e8e8;
+    height:  30px;
+    font-size:  10px;
+    color: darkblue;
+    vertical-align: top;
+    text-align: left;
+    float: left;
+
+}

@@ -1,0 +1,13 @@
+.LaneBody {
+
+    padding: 0;
+    width: 100%;
+    margin: auto;
+    border: 0px solid orange;
+    font-size: 10px;
+    background: white;
+    height: 40px;
+    color: darkblue;
+    display: table;
+
+}

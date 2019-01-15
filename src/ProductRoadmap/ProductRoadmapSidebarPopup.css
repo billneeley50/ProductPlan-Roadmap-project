@@ -1,0 +1,16 @@
+.ProductRoadmapSidebarPopup {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    font-size: 12px;
+    text-align: justify;
+    margin: 5px 0 5px 0;
+    padding: 5px 5px 5px 5px;
+    display: inline;
+
+}
+
+.ProductRoadmapSidebarPopup h4 {
+    text-align: center;
+}

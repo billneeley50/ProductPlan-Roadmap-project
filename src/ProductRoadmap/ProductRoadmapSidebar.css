@@ -1,0 +1,19 @@
+.ProductRoadmapSidebar {
+
+    float: right;
+    width: 10%;
+    top: 50px;
+    border: 0px solid #eee;
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.ProductRoadmapSidebar ul,
+.ProductRoadmapSidebar ul li {
+
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
+
+    text-align: left;
+    float: left;
+}
